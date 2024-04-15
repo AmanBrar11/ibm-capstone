@@ -33,18 +33,6 @@ The project successfully integrates data from multiple sources to provide a deta
 ### Final Thoughts
 Ongoing improvements in data handling and analysis will be crucial to maintaining and enhancing the efficacy of SpaceX operations. This project lays a foundational framework for such endeavors, driving forward the capabilities of aerospace data analytics.
 
-## How to Use This Repository
-- Clone the repository using `git clone [url]`.
-- Explore the `notebooks/` for detailed analyses and methodologies.
-- Check `models/` for predictive modeling approaches and results.
-- Use `dashboards/` to interact with the visualizations.
-
-## Contributing
-Contributions to this project are welcome. Please fork the repository and submit pull requests with your enhancements. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Acknowledgments
 - The instructions and structure of the notebooks shared were created and owned by IBM
 - The data used for this project belongs to SpaceX and was accessed via their public API
